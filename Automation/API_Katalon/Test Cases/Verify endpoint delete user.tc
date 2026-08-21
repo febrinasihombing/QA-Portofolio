@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify endpoint delete user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ee2d7d05-a31b-4d6a-80db-18d6a197046b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e85e768c-9c15-4121-8795-c997fd4bc24a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c921cd53-53d4-4695-b8ba-dc218c2f85e1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://hjaltjbqyttixmfubktb.supabase.co\r\n'</defaultValue>
+      <description></description>
+      <id>e85e768c-9c15-4121-8795-c997fd4bc24a</id>
+      <masked>false</masked>
+      <name>BASE_URL</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c921cd53-53d4-4695-b8ba-dc218c2f85e1</id>
+      <masked>false</masked>
+      <name>API_KEY</name>
+   </variable>
+</TestCaseEntity>

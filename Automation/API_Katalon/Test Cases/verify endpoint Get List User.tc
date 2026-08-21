@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify endpoint Get List User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>446e482e-ebf4-4c24-bf8e-fdf7156e1167</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>85daccf3-c382-4c76-886a-15b9ddc62865</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://hjaltjbqyttixmfubktb.supabase.co'</defaultValue>
+      <description></description>
+      <id>85daccf3-c382-4c76-886a-15b9ddc62865</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
