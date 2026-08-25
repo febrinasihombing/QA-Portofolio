@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Book_Title</name>
+   <tag></tag>
+   <elementGuidId>b72292ab-48d5-4d9c-9d47-a8bc1439a9bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//li[contains(@class,'ui-li-has-thumb')]//h2)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//li[contains(@class,'ui-li-has-thumb')]//h2)[1]</value>
+      <webElementGuid>9a46bf47-32da-40d8-8c37-d8d2cd9d5499</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

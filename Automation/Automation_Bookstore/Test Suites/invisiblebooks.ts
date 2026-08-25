@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>invisiblebooks</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>b60b24e7-f53c-49bd-8c6d-7ea00980fb3e</testSuiteGuid>
+   <testCaseLink>
+      <guid>f6ae4c9b-325c-463f-ac58-8e78eb6ab006</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/findinvisiblebooks</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>831d6572-c5a3-4a55-a1c5-2b42f79c9e18</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/books</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>831d6572-c5a3-4a55-a1c5-2b42f79c9e18</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>keyword</value>
+         <variableId>85ad91f2-690e-45c3-9cf6-7fecfff79759</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>831d6572-c5a3-4a55-a1c5-2b42f79c9e18</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>book_id</value>
+         <variableId>62a800c8-236c-42f1-89f8-29596865d622</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

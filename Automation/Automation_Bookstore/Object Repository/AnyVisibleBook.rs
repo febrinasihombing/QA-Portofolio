@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AnyVisibleBook</name>
+   <tag></tag>
+   <elementGuidId>d8c77347-185d-4522-95fa-2afac5c102c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ul[@id='books']/li[not(contains(@class,'ui-screen-hidden'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ul[@id='books']/li[not(contains(@class,'ui-screen-hidden'))]</value>
+      <webElementGuid>fe5b3760-ed32-415d-96c5-a8b104bb193a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

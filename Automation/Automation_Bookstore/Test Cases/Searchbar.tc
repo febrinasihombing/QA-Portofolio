@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Searchbar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3be6188d-dec7-463c-81e6-08cf14d09791</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>20cae2a7-467b-4ae2-baf6-1bbc1ae6e8b6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dfe8f889-4d3a-430b-89e7-d2f48f426f66</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>20cae2a7-467b-4ae2-baf6-1bbc1ae6e8b6</id>
+      <masked>false</masked>
+      <name>Keyword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dfe8f889-4d3a-430b-89e7-d2f48f426f66</id>
+      <masked>false</masked>
+      <name>book_id</name>
+   </variable>
+</TestCaseEntity>

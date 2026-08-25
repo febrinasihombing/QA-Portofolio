@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Book_Price</name>
+   <tag></tag>
+   <elementGuidId>bb922828-2c28-4852-b4cd-71494dccf293</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//li[contains(@class,'ui-li-has-thumb')]//p[contains(@id,'price')])[1]</value>
+      <webElementGuid>509a790f-93d7-4ded-8703-b2a6b864fdfc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
