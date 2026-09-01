@@ -124,7 +124,7 @@ Leave Management system.
 - Performance testing practiced using JMeter.
 - Experience covering functional, UI, regression, API, UAT, and retesting activities.
 
-  ## Education
+## Education
 
 **Del Institute of Technology**  
 Diploma in Information Technology  
